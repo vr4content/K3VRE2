@@ -73,3 +73,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Extra MoCap Face Motion Capture Source Data
+Content/AspektEins/Mocap/General_Mocap_Assets/VideoImport/*
