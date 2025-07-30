@@ -76,3 +76,4 @@ UEProject/DerivedDataCache/*
 
 # Extra MoCap Face Motion Capture Source Data
 UEProject/Content/AspektEins/Mocap/General_Mocap_Assets/VideoImport/*
+/UEProject/Intermediate
